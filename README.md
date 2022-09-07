@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GregorThu
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning AL, C/AL, C#, JAVA
-- 💞️ I’m looking to collaborate on everything
+- 🌱 I’m currently learning AL, C/AL, C#, Python
+- 💞️ I’m looking to collaborate on interesting Stuff
 - 📫 How to reach me: [Microsoft Temas](https://teams.microsoft.com/l/chat/0/0?users=gregor.thume@cosmoconsult.com)
 
 <!---
